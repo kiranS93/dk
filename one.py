@@ -1,1 +1,2 @@
-good morning
+print(good morning)
+print(hello)
